@@ -3,8 +3,8 @@
 function configureLinks() {
   return {
     x: 'https://x.com/horsecleyton',
-    pump: 'https://pump.fun/coin/',
-    contract: 'contract address here'
+    pump: 'https://pump.fun/coin/DBZSF6kFefESpTcJVDVrKK15oaZvB7PSXvnPY3apump',
+    contract: 'DBZSF6kFefESpTcJVDVrKK15oaZvB7PSXvnPY3apump'
   };
 }
 const WEBSITE = configureLinks();
